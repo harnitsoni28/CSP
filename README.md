@@ -1,4 +1,4 @@
-# Computer Science Portal (CSP)
+# Computer Science Portal (CSP) 💻
 
 ### INTRODUCTION
 The ultimate resource to prepare for coding interviews.
