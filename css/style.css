@@ -204,7 +204,14 @@ html {
     color: #fff;
     background: #0779e4; }
 
-    
+
+  mark {
+    background: black;
+    color: white;
+  }   
+
+
+
 body {
   line-height: 1.7;
   color: #364d59 !important;
